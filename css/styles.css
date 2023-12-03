@@ -76,10 +76,10 @@ address {
 .address-item-link {
 }
 
-.address-item-link:hover {
+.address:hover {
   color: #404bbf;
 }
 
-.address-item-link:focus {
+.address:focus {
   color: #404bbf;
 }
