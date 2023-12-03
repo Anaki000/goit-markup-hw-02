@@ -37,6 +37,10 @@ address {
   text-transform: uppercase;
 }
 
+.logo-studio {
+  color: #2e2f42;
+}
+
 .nav-list {
   font-weight: 500;
   line-height: 1.5em;
