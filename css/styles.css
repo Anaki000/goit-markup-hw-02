@@ -88,7 +88,7 @@ address {
 
 /* styles section1*/
 
-.section {
+.section-one {
   background-color: #2e2f42;
 }
 .header-one {
@@ -120,6 +120,9 @@ address {
 
 /* styles section2 */
 
+.section-two {
+}
+
 .header-three {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 20px;
@@ -134,4 +137,10 @@ address {
   font-weight: 400;
   line-height: 1.5em;
   letter-spacing: 0.02em;
+}
+
+/* styles section3 */
+
+.section-three {
+  background-color: #f4f4fd;
 }
