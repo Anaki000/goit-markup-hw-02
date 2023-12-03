@@ -21,6 +21,7 @@ button {
 .header-nav {
 }
 .header-logo {
+  color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -29,7 +30,6 @@ button {
   text-transform: uppercase;
 }
 .logo-web {
-  color: #4d5ae5;
 }
 .nav-list {
   /* Body Medium */
