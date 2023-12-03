@@ -20,6 +20,7 @@ address {
 
 /* styles */
 
+/* styles header */
 .header {
   color: var(--SLATE, #434455);
 }
@@ -85,10 +86,4 @@ address {
   color: #404bbf;
 }
 
-/* .address:hover {
-  color: #404bbf;
-}
-
-.address:focus {
-  color: #404bbf;
-} */
+/* styles section1*/
