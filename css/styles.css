@@ -107,4 +107,13 @@ address {
   font-weight: 500;
   line-height: 1.5em;
   letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+.button:focus {
+  background-color: #404bbf;
 }
