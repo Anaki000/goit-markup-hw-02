@@ -117,3 +117,21 @@ address {
 .button:focus {
   background-color: #404bbf;
 }
+
+/* styles section2 */
+
+.header-three {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2em;
+  letter-spacing: 0.02em;
+}
+
+.text {
+  color: var(--SLATE, #434455);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+}
