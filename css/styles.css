@@ -77,10 +77,18 @@ address {
 .address-item-link {
 }
 
-.address:hover {
+.address-item-link:hover {
+  color: #404bbf;
+}
+
+.address-item-link:focus {
+  color: #404bbf;
+}
+
+/* .address:hover {
   color: #404bbf;
 }
 
 .address:focus {
   color: #404bbf;
-}
+} */
