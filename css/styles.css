@@ -33,7 +33,6 @@ button {
 }
 .nav-list {
   /* Body Medium */
-  font-family: Roboto;
   font-weight: 500;
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.02em;
@@ -41,6 +40,7 @@ button {
 .nav-list-item {
 }
 .nav-item-link {
+  color: #2e2f42;
 }
 .address {
   /* Body */
