@@ -47,27 +47,15 @@ address {
   letter-spacing: 0.02em;
 }
 
-/* .nav-list:hover {
+.nav-list:hover {
   color: #404bbf;
 }
 
 .nav-list:focus {
   color: #404bbf;
-} */
-
-.header-item {
-  color: #2e2f42;
 }
 
-.header-item:hover {
-  color: #404bbf;
-}
-
-.header-item:focus {
-  color: #404bbf;
-}
-
-.nav .nav-list-item {
+.nav-list-item {
 }
 
 .nav-item-link {
