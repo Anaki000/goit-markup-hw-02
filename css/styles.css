@@ -13,6 +13,19 @@ button {
   font-family: inherit;
   color: currentColor;
 }
+
+address {
+  font-style: normal;
+}
+
+a:hover {
+  color: #404bbf;
+}
+
+a:focus {
+  color: #404bbf;
+}
+
 /* styles */
 
 .header {
