@@ -55,6 +55,10 @@ address {
   color: #404bbf;
 } */
 
+.header-item {
+  color: #2e2f42;
+}
+
 .header-item:hover {
   color: #404bbf;
 }
