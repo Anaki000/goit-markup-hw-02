@@ -32,7 +32,7 @@ address {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.17em; /* 116.667% */
+  line-height: 1.17em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -41,17 +41,16 @@ address {
 }
 
 .nav-list {
-  /* Body Medium */
   font-weight: 500;
-  line-height: 1.5em; /* 150% */
+  line-height: 1.5em;
   letter-spacing: 0.02em;
 }
 
-.nav-list:hover {
+.nav-item-link:hover {
   color: #404bbf;
 }
 
-.nav-list:focus {
+.nav-item-link:focus {
   color: #404bbf;
 }
 
@@ -63,9 +62,8 @@ address {
 }
 
 .address {
-  /* Body */
   font-family: Roboto;
-  line-height: 1.5em; /* 150% */
+  line-height: 1.5em;
   letter-spacing: 0.02em;
 }
 
