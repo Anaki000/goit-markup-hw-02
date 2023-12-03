@@ -1,0 +1,56 @@
+/* Base styles */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+a {
+  color: currentColor;
+}
+
+button {
+  font-family: inherit;
+  color: currentColor;
+}
+/* styles */
+
+.header {
+  color: var(--SLATE, #434455);
+}
+.header-nav {
+}
+.header-logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17em; /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-web {
+  color: #4d5ae5;
+}
+.nav-list {
+  /* Body Medium */
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 1.5em; /* 150% */
+  letter-spacing: 0.02em;
+}
+.nav-list-item {
+}
+.nav-item-link {
+}
+.address {
+  /* Body */
+  font-family: Roboto;
+  line-height: 1.5em; /* 150% */
+  letter-spacing: 0.02em;
+}
+.address-list {
+}
+.address-list-item {
+}
+.address-item-link {
+}
