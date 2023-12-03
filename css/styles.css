@@ -18,21 +18,23 @@ address {
   font-style: normal;
 }
 
-a:hover {
+/* a:hover {
   color: #404bbf;
 }
 
 a:focus {
   color: #404bbf;
-}
+} */
 
 /* styles */
 
 .header {
   color: var(--SLATE, #434455);
 }
+
 .header-nav {
 }
+
 .header-logo {
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
@@ -42,28 +44,44 @@ a:focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+
 .logo-web {
 }
+
 .nav-list {
   /* Body Medium */
   font-weight: 500;
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.02em;
 }
-.nav-list-item {
+
+.nav-list:hover {
+  color: #404bbf;
 }
+
+.nav-list:focus {
+  color: #404bbf;
+}
+
+.nav .nav-list-item {
+}
+
 .nav-item-link {
   color: #2e2f42;
 }
+
 .address {
   /* Body */
   font-family: Roboto;
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.02em;
 }
+
 .address-list {
 }
+
 .address-list-item {
 }
+
 .address-item-link {
 }
