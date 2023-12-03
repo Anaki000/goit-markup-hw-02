@@ -21,7 +21,7 @@ button {
 .header-nav {
 }
 .header-logo {
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17em; /* 116.667% */
