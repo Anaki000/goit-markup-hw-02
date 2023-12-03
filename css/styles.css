@@ -89,9 +89,22 @@ address {
 /* styles section1*/
 
 .section {
-  color: #2e2f42;
+  background-color: #2e2f42;
 }
-.header1 {
+.header-one {
+  color: var(--WHITE, #fff);
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07em;
+  letter-spacing: 0.02em;
 }
 .button {
+  background-color: #4d5ae5;
+  color: var(--WHITE, #fff);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5em;
+  letter-spacing: 0.04em;
 }
