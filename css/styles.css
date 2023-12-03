@@ -75,3 +75,11 @@ address {
 
 .address-item-link {
 }
+
+.address-item-link:hover {
+  color: #404bbf;
+}
+
+.address-item-link:focus {
+  color: #404bbf;
+}
