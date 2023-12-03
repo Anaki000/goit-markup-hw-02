@@ -46,19 +46,19 @@ address {
   letter-spacing: 0.02em;
 }
 
+.nav-list-item {
+}
+
+.nav-item-link {
+  color: #2e2f42;
+}
+
 .nav-item-link:hover {
   color: #404bbf;
 }
 
 .nav-item-link:focus {
   color: #404bbf;
-}
-
-.nav-list-item {
-}
-
-.nav-item-link {
-  color: #2e2f42;
 }
 
 .address {
