@@ -18,14 +18,6 @@ address {
   font-style: normal;
 }
 
-/* a:hover {
-  color: #404bbf;
-}
-
-a:focus {
-  color: #404bbf;
-} */
-
 /* styles */
 
 .header {
@@ -55,11 +47,19 @@ a:focus {
   letter-spacing: 0.02em;
 }
 
-.nav-list:hover {
+/* .nav-list:hover {
   color: #404bbf;
 }
 
 .nav-list:focus {
+  color: #404bbf;
+} */
+
+.header-item:hover {
+  color: #404bbf;
+}
+
+.header-item:focus {
   color: #404bbf;
 }
 
